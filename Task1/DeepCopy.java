@@ -6,6 +6,6 @@ public class DeepCopy {
         ABC obj1 = new ABC();  
         ABC obj2 = new ABC();    
         obj2.x = 6;   
-        System.out.println("The value of x is: " + obj2.x);  
+        System.out.println("The value of x is: " + obj2.x + " " + obj1);  
     } 
 }

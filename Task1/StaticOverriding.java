@@ -10,8 +10,9 @@ class B extends A{
 }
 public class StaticOverriding {
     public static void main(String[] args) {
-        A a = new B();
-        a.display();
+        // A a = new B();
+        // a.display();
+        A.display();
         // B b = new B();
         // b.display();
     }

@@ -19,7 +19,7 @@ class Student{
 public class StaticMethod {
     public static void main(String[] args) {
         Student S = new Student(19, "Dishika");
-        S.change();
+        // S.change();
         S.display();
     }
 }
