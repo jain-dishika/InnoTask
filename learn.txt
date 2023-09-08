@@ -1,0 +1,6 @@
+learn thread
+interface
+how we can implement threading in java class.
+there are 2 types
+multithreading
+what why how
