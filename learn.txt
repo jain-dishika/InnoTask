@@ -4,3 +4,9 @@ how we can implement threading in java class.
 there are 2 types
 multithreading
 what why how
+optional class
+request dispatcher
+----------************------------**********-------------*************---------
+login
+default data load
+home page pr admin or user ke liye data load krna hai 
